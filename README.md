@@ -1,7 +1,7 @@
 # barcodeChecking
  flutter checking users  by id ,thougth database call and show the user
 ## the source
-this is an application of this video :https://www.youtube.com/watch?v=DupniuA45l4; i just added the barcode scan package to find the user.
+this is an application of this video :https://www.youtube.com/watch?v=F4Q6lEhmwCY; i just added the barcode scan package to find the user.
 
 
 #soon 
